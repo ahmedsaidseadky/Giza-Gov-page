@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/Giza-Gov-page/_next/static/chunks/dfe24cce04d6304a.js"],"ClientPageRoot"]
+3:I[31713,["/Giza-Gov-page/_next/static/chunks/f14839e09aaa2bcb.js","/Giza-Gov-page/_next/static/chunks/cfc749693ec60efc.js"],"default"]
+6:I[97367,["/Giza-Gov-page/_next/static/chunks/dfe24cce04d6304a.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"LqBlWeRsswfY94dXL4CPW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Giza-Gov-page/_next/static/chunks/cfc749693ec60efc.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
