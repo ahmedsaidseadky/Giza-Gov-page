@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/Giza-Gov-page/_next/static/chunks/f14839e09aaa2bcb.js","/Giza-Gov-page/_next/static/chunks/dfe24cce04d6304a.js"],"default"]
 3:I[37457,["/Giza-Gov-page/_next/static/chunks/f14839e09aaa2bcb.js","/Giza-Gov-page/_next/static/chunks/dfe24cce04d6304a.js"],"default"]
-0:{"buildId":"GqZYVV3wEhSzC9PWK-wXr","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"2NB2M9dTbf5NZhcBEwJ_g","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
